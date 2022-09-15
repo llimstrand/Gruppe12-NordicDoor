@@ -1,5 +1,3 @@
 # Gruppe12-NordicDoor
 
-Heihei alle sammen 
-
-sjbnd 
+Hallo?
